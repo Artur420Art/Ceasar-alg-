@@ -1,6 +1,5 @@
 #include <iostream>
 #include <vector>
-#include <fstream>
 #include "ceasar.h"
 
 std::string Ceasar::m_decode(std::string& str, const size_t pos = 1)
